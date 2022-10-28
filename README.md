@@ -30,3 +30,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hritikbhattacharya&" alt="hritikbhattacharya" /></p>
 
+[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hritikbhattacharya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/hritikbhattacharya)
+
