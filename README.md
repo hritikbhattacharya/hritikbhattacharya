@@ -25,9 +25,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hritikbhattacharya" alt="hritikbhattacharya" /></a> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hritikbhattacharya&show_icons=true&locale=en&layout=compact" alt="hritikbhattacharya" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hritikbhattacharya&show_icons=true&locale=en" alt="hritikbhattacharya" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hritikbhattacharya&" alt="hritikbhattacharya" /></p>
 
