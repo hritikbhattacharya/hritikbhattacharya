@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-![HRITI](https://user-images.githubusercontent.com/44370586/199032916-7476b598-e6c6-4b6d-8dff-140a1568deeb.png)
+<img align="center" src="https://i.ibb.co/S3p8RNV/HRITI-1.png">
 <h3 align="center">A passionate developer</h3>
 
 
