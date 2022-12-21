@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 <img align="center" src="https://i.ibb.co/S3p8RNV/HRITI-1.png">
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A passionate developer</h3><br>
 
 
 
