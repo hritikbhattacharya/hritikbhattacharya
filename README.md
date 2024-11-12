@@ -1,28 +1,21 @@
 <h1 align="center">Hi 👋, I'm Hritik Bhattacharya</h1>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/hritik-bhattacharya-631847210/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black">
-  </a>
-  <a href="" target="_blank">
-   <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=0e76a8&color=black">
-  </a> 
-</div>
+
 
 <div align="left">
   <h1>Language uses</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,c,cpp,go,java,python" />
+    <img src="https://skillicons.dev/icons?i=typescript,c,cpp,go" />
   </a>
 </div>
 <div align="left">
   <h1>Tech stack</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,vue,aws,mongo,redux,redis,firebase,flutter,nodejs,express,docker,materialui,css,html" />
+    <img src="https://skillicons.dev/icons?i=next,aws,mongo,redux,redisnodejs,express,docker" />
   </a>
   <h1>Others</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,notion,figma,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,linux," />
   </a>
 </p>
 
