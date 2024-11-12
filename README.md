@@ -11,7 +11,7 @@
 <div align="left">
   <h1>Tech stack</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,aws,mongo,redux,redisnodejs,express,docker" />
+    <img src="https://skillicons.dev/icons?i=next,aws,mongo,redux,redis,nodejs,express,docker" />
   </a>
   <h1>Others</h1>
   <a href="https://skillicons.dev">
